@@ -1,1 +1,1 @@
-include ':app', ':notificationlibrary'
+include ':app', ':notificationlibrary', ':svgdemo'

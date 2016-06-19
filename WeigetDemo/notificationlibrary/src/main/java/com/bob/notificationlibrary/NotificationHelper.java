@@ -28,7 +28,7 @@ public class NotificationHelper {
                 .setOngoing(true)//ture，设置他为一个正在进行的通知。他们通常是用来表示一个后台任务,用户积极参与(如播放音乐)或以某种方式正在等待,因此占用设备(如一个文件下载,同步操作,主动网络连接)
 //                .setDefaults(Notification.DEFAULT_VIBRATE)
                 .setSmallIcon(icon)
-                .setContentIntent()
+//                .setContentIntent()
                 .setLights(0x123456, 300, 0);
 
         final Notification notification = builder.build();

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="back">
+        <string name="back_line_1_s1">
+            M 20 20
+            L 50 20 80 20
+        </string>
+        <string name="back_line_1_s2">
+            M 20 50
+            L 50 20 50 20
+        </string>
+        <string name="back_line_2_s1">
+            M 20 20
+            L 50 20 80 20
+        </string>
+        <string name="back_line_3_s1">
+            M 20 50
+            L 50 80 50 80
+        </string>
+    </string-array>
+
+</resources>
